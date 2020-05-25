@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/read_filename.dir/read_filename.cpp.o  -o devel/lib/yolo_opencv_dnn/read_filename 

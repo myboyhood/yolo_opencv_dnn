@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: yolo_opencv_dnn
+Description: Description of yolo_opencv_dnn
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
